@@ -1,0 +1,62 @@
+Basic Fundamentals
+---------
+1. TOKENS
+- The tokens can be defined sas a punctutators 
+marks, reserved words,ans each word in statement.
+1. keyword
+2. identifiers
+3. literals
+4. operators
+
+
+python install:
+python runtime environment+tools+libraries
+
+pythin literals
+----
+Data givren in a variable or constant is literals
+1. string literals: text enclosed in the quotes.""we can use both single as well as
+double quotes
+TYpes;
+1. single-line string
+ex a='hello'
+
+2. multi line string
+a adding  back slash at the end of each line \
+b adding triple quotes'''duktar'''
+
+3 numeric literals
+a.  x=123 #int literals
+b. y=100.5  z=1.2    #float literals 
+c. s=5+3.14j  #complex literls
+d. x=0b10001 #binary literals
+e z=0o215
+f. y=0x12d
+
+4. boolean literals:{True,False}
+5. special literals:None #(none literals
+)
+6. Literal collection:
+ a. list-[1,2,3][1,'apple',3.14j]---->list literals
+b. tuple-(1,2,3,4)(4,"cow",20.4)1,2,3
+c. set- {1,2,3,4}{5,"truck",}
+d. dictionary-{1:"name" ,2: "duktar"}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

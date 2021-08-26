@@ -1,0 +1,194 @@
+Data type:
+-------
+a=5
+name="shyam"
+variable=a
+literals=integer literals
+datatype=integer
+
+
+Data type are different in different programming language
+=======
+Data type are defined by programming language->primitive data type (inbuilt data type)
+
+type()
+id()
+print()
+
+standard data types:
+==========
+1 Numbers: integer,float,complex,binary ,octate,hexadecimal
+2. sequence type=strings,list,tuple
+3. Boolean: true,false
+4. set type- {}
+5 Dictionary-{"one":"name",2:"duktar","roll":1001}
+ 
+
+Revised
+tokens=keyword,identifier,literals poperators
+comments=user info about the statement that is defined 
+by a programmer
+
+type 
+single line use #
+multiline==
+'''
+'''
+
+
+Operator: symbol which is responsible for
+a particular operation between two operands
+a+d
+operands=a,d
+operator=+
+
+types of operators in python
+========
+1. Arithmetic Operators=+,-*,/,//,**
+
+a=5
+b=2
+
+a/b=2.5(division)
+a//b=2(floor division)
+a%2=1(modulus remainder)
+a**2=25(exponent)power
+
+
+2.  comparision operator
+a=5
+b=2
+
+a==5->false(equal to)
+a!=b->True(not equal to)
+a<=b->less then or equal to
+>=
+<
+>
+
+
+3. Assignment operator
+a=5
+b-2
+
+=
++=
+-=
+*=
+**=
+//=
+/=
+a=b
+a+=b->a=a+b
+a-+b->a=a-b
+
+4. Bitwise operator
+a=7->0111
+b=6->0110
+-----------
+
+binary and-&
+binary or |
+negation ~
+
+5. Logical operators:
+
+-and, or, not
+a=5
+b=10
+c=15
+
+a<b ora>c and c==b
+
+true or false and false
+true and false 
+false
+
+and truth table 
+a b  a and b   a or b
+0 0    0        0
+0 1    0        1
+1 0    0        1
+1 1    1        1
+
+
+a=true
+b=false
+~a= false
+
+
+6. Membership operator
+========
+-in 
+-Not in
+
+l=[1,2,3,4,5,6,7,8]
+a=5
+
+print(a, in l)-True
+print(10 in l)-False
+print(ain~l)-False
+
+Identity operator:
+====
+-is
+-is not
+a=5
+print(type(a)is int)->true
+print(type(a)is not string)->true
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

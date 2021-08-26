@@ -1,0 +1,55 @@
+programming language
+a set of data given to a computer to perform ceertain task 
+automatically is programming language
+low level language:
+the language which is used to write a program
+in a particular machine and that runs only on that 
+machine.
+(machine dependent)
+types
+machine language:language which is written in binary form(0and 1)
+ex:10001,1111,00001,1110
+ADVANTAGES:
+1. machine can directly understand
+off:0
+on:1
+2. it executes a task the fastest
+DISADVANTAGES:
+-it isn't understood by person.
+-it is not redble.
+-Hard to maintain
+
+2)ASSEMBLY LANGUAGE(language which is written by using mnemonics)
+Mnemonics- short english word-ADD,SUB,MUT,DIV,REG
+ex: ADD 1001,000111
+advantages:
+-easy to understand
+-redable
+-maintanable
+disadvantages:
+it needs a translator.(name of translator=assembler)
+def tanslator-it is application used to convert one form
+ of language into another form of language)
+def assembler-it is a translator which is used to convert assembly language into machine codes
+
+
+HIGH LEVEL LANGUAGE:
+(languageh wich are not machine independent)
+types(c,c==,java,Ruby,python,c# etc)
+ADVANTAGES:
+- it is similar to english language
+-it is redable
+-it is maintainable
+DISADVANTAGES
+it needs a translator-types 1<compiler>2<Interpreter>
+compiler:scans all the source code once and converts into machine code.
+-compilation process will be faster
+Interpreter:scans the code line by line and convert it into machine code.
+ -interprtation will not be as fast as compiler
+
+IMP QUES-DIFF BETWEEN COMPILER AND INTERPRETER??
+IMP QUESTIONS(DIFFERENCE BTN HIGH LEVEL AND LOW LEVEL LANGUAGE)
+IMP:MENTION ONE ADVANTAGE AND DIADAVANTAGES OF HIGH LEVEL AND LOW LEVEL LANGUAGE)
+
+platform dependent
+platform independent

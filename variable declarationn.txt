@@ -1,0 +1,96 @@
+variable declaration:
+-------
+variable declaration:
+-----
+in compiled language:int a;
+type of sata-->integer-0,1,2,
+               float-20.2,3.4;
+               string/text-softwarica
+static typed language--cannot change the data
+type.
+
+variable initialization:
+-----
+in compiled language:a=10;
+
+
+BOTH:int a=10;//variable declaration and initialization
+
+python:
+------
+declaration and inititlization is done at the
+time of storing the values
+dynamic typed language-data type is changable
+
+
+print() function
+
+
+MULTIPLE ASSIGNMENT:
+---
+1. Assigining single value to multiple variables
+x=y=z=10;
+2. Assigning multiple values to  multiple variables:
+----
+a,b,c=10,15,20;
+3. Object reference:
+-----
+-python is object-oriented programming language.
+In static language:
+a=50
+b=a
+creates memory locatioon everytime a data
+is declared 
+it occupies more space
+execution=the process of loading the program in main memory
+
+In pyrhon
+-------
+a=50
+b=a
+object oriented so every data typr is referred as object
+so it saves spaces
+
+
+object identity
+--------
+id()----function[print(id(a))]
+
+Multiword variable:
+-------
+1. firstvalue,firstname,lastname,nameofst,valueofvariable
+rules
+1.Camel Case:fristValue,firstName,nameOfStudent
+{first letter of first is small the added words capital }
+first letter is capital}
+2. pascal Case:FirstValue,FirstName,NameOfStudent
+3. snake case: first_value, First_Case
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,35 @@
+Python:
+-high level language
+-interpreted language
+-general purposed language--
+-dynamic language
+-object oriented programming
+-open source free(free,edit the other code and make your own code)
+
+
+father of python<Guido Van Rossum>1991
+
+class 3
+variable-name of memory location
+run-execute
+the process of loading a program into main memory 
+identifier-
+the name given by the user
+
+function name
+class name
+rhe rules to name an identifier
+-the first character of the variable must be
+an alphabet ou underscore(_)
+
+-All the characters execpt the first character maybe an  
+alphabet of lower or upper_case,underscore or digits
+
+-name must not contain any white-space or any specail characters(?:"~@#)
+
+-name must not be similar to any key word
+keyword-keywords are the predefined word or reserved word which has special meaning in programming
+language
+example if,int,float,print,etc
+
+-case sensitive-upper and loweer case

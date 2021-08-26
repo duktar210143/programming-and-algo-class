@@ -1,0 +1,121 @@
+problem--solution
+
+problem-adding two numbers
+=====
+1 directly
+a=2
+b=3
+c=a+b
+print(c)
+
+2 user input
+
+input("enter the first number")
+
+
+keyboard(value)------>value---->string
+
+2-int
+"2"-string
+
+int+int->int(2+3)=5
+str+str->str(2+3)=23
+
+string
++--> concatenation operator
+*-->repetation operator str*2=strstr
+
+changing one data type to another data type
+
+
+int---->int()
+float---->float()
+complex--->str()
+string---->bool()
+List--->list()
+tuple---->tuple()
+set---->set()
+dictationary--->dict
+
+
+Example
+a=int("a")
+CONTROL FLOW--->Ordere of execution
+Sequential flow of execution.
+
+conditional statement/decision making statement/control structure
+===========
+
+indentation :is a wide space which is used to seprate the blocks
+(python do not use curly brackets)
+-------
+
+Void main()
+{
+ statement
+statement
+}
+PYTHON
+statemen}    ___MAIN
+statement}
+
+     statement}_____Not main
+     statement}
+
+'''''''
+
+
+
+
+CONDITIONAL STATEMENT
+1 if statement 
+2 if-else statement
+3 if-elseif statement
+
+if statement:
+=====
+syntax: if expression(condition):
+          statement
+          statement
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

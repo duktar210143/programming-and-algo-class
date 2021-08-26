@@ -1,0 +1,106 @@
+Conditional statement/decision making statement
+============
+control flow - order of execution of a program.
+1. sequential flow of execution
+2. conditional flow of execution.
+
+ 
+1. if statement
+2. if else statement
+3. if else if estataement
+
+indentation-It is a wide space which defines the block of statement.
+
+
+Syntax:
+if <expression>
+    statements
+
+
+2 if else statement
+syntax:
+if<expressions>
+   statements
+  else:
+     statements
+
+3 if elif statement
+syntax: if <expression1>:
+        #block of statement
+        elif <expression2>:
+        #block of statement
+        elif<expression3>
+        #block of statement
+        else:
+         #clock of statement
+
+
+
+Type of conditions
+1> chained condition
+2> Nested condition
+
+Debugging::
+finding and removing bugs
+
+
+static type system vs dynamic type system:
+====================
+-int first_value:
+first_value=20
+compile--datatype-->of first_value
+execute
+
+
+dynamic
+-first_value=20
+first_value="hari"
+
+execute---->first_value-->data type? Runtime...
+
+Impleicit--> we don't see or do it 
+explicit-->we do it to see it
+
+strong type system:
+s=int(input("enter number");
+python, java-->stronger type language
+
+weak type language
+s=1
+w="hari"
+
+s=w
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
